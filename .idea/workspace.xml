@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5dbdae9d-2417-4872-967c-4fdd244e779c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <interpreter composer="composer" />
+    </execution>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1nXeZzv59ogRRyrFYjmGVguFrC5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../키니케어 테스트" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/../키니케어 테스트/include" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\신생아관리\include\css\img" />
+      <recent name="D:\project\신생아관리\include\test" />
+      <recent name="D:\project\신생아관리\include\css" />
+      <recent name="D:\project\신생아관리\crontab" />
+      <recent name="D:\project\신생아관리\include\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\project\신생아관리\include\css\images" />
+      <recent name="D:\project\신생아관리\application\views\kr" />
+      <recent name="D:\project\신생아관리\application\views\backup" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5dbdae9d-2417-4872-967c-4fdd244e779c" name="Default Changelist" comment="" />
+      <created>1611540922012</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611540922012</updated>
+      <workItem from="1611540923165" duration="61000" />
+      <workItem from="1611541304128" duration="24352000" />
+      <workItem from="1611623020890" duration="70000" />
+      <workItem from="1611623099793" duration="32953000" />
+      <workItem from="1611709517558" duration="20137000" />
+      <workItem from="1611882578896" duration="24507000" />
+      <workItem from="1612142259326" duration="24854000" />
+      <workItem from="1612227743717" duration="25978000" />
+      <workItem from="1612314453530" duration="26846000" />
+      <workItem from="1612400577843" duration="27108000" />
+      <workItem from="1612487167194" duration="18115000" />
+      <workItem from="1612746281797" duration="26798000" />
+      <workItem from="1612832632244" duration="24822000" />
+      <workItem from="1612918990655" duration="27733000" />
+      <workItem from="1613351774327" duration="26033000" />
+      <workItem from="1613438668126" duration="26992000" />
+      <workItem from="1613534809766" duration="10296000" />
+      <workItem from="1613610194945" duration="210000" />
+      <workItem from="1615871026422" duration="12647000" />
+      <workItem from="1615943700526" duration="18119000" />
+      <workItem from="1615967225818" duration="6593000" />
+      <workItem from="1616029406429" duration="28598000" />
+      <workItem from="1616115780113" duration="8909000" />
+      <workItem from="1616130935088" duration="16514000" />
+      <workItem from="1616375027898" duration="26819000" />
+      <workItem from="1616461480550" duration="6333000" />
+      <workItem from="1616468337276" duration="1040000" />
+      <workItem from="1616473079099" duration="17520000" />
+      <workItem from="1616547610548" duration="26486000" />
+      <workItem from="1616634203990" duration="1007000" />
+      <workItem from="1617687689597" duration="1601000" />
+      <workItem from="1617690279684" duration="786000" />
+      <workItem from="1617691526990" duration="6000" />
+      <workItem from="1617691883233" duration="9654000" />
+      <workItem from="1617757328560" duration="13370000" />
+      <workItem from="1617843759577" duration="23429000" />
+      <workItem from="1617930154412" duration="622000" />
+      <workItem from="1617931876501" duration="5757000" />
+      <workItem from="1618189447900" duration="2660000" />
+      <workItem from="1618275909119" duration="2339000" />
+      <workItem from="1618385418321" duration="1541000" />
+      <workItem from="1618448589861" duration="4231000" />
+      <workItem from="1618535822684" duration="9785000" />
+      <workItem from="1618794317364" duration="614000" />
+      <workItem from="1618880627123" duration="370000" />
+      <workItem from="1618901571909" duration="8929000" />
+      <workItem from="1618967608196" duration="2922000" />
+      <workItem from="1620017878259" duration="9130000" />
+      <workItem from="1621313686067" duration="108000" />
+      <workItem from="1622595906103" duration="26000" />
+      <workItem from="1623990606494" duration="9198000" />
+      <workItem from="1624237456875" duration="4169000" />
+      <workItem from="1624323543641" duration="6107000" />
+      <workItem from="1624410174398" duration="5934000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

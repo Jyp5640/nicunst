@@ -1,0 +1,1 @@
+/usr/bin/rdate -s time.bora.net && /sbin/clock -w

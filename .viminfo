@@ -1,0 +1,133 @@
+# 이 viminfo 파일은 빔이 만든 것입니다 Vim 7.4.
+# 조심만 한다면 고칠 수도 있습니다!
+
+# 이 파일이 저장되었을 때의 'encoding'의 값
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~H
+# 명령 줄 히스토리 (새것부터 오래된 것 순):
+:wq
+:q!
+
+# 찾을 문자열 히스토리 (새것부터 오래된 것 순):
+
+# 표현 히스토리 (새것부터 오래된 것 순):
+
+# 입력 줄 히스토리 (새것부터 오래된 것 순):
+
+# 입력 줄 히스토리 (새것부터 오래된 것 순):
+
+# 레지스터:
+
+# 파일 마크:
+'0  52  36  ~/application/config/routes.php
+'1  44  0  ~/application/config/config.php
+'2  1  0  ~/application/index.html
+'3  1  4  /usr/local/bin/m.w
+'4  1  0  /etc/ssh/sshd_config
+
+# 점프목록 (새것이 먼저):
+-'  52  36  ~/application/config/routes.php
+-'  1  0  ~/application/config/routes.php
+-'  44  0  ~/application/config/config.php
+-'  1  0  ~/application/config/config.php
+-'  1  0  ~/application/index.html
+-'  1  4  /usr/local/bin/m.w
+-'  1  0  /etc/ssh/sshd_config
+-'  1  0  /etc/ssh/sshd_config
+-'  1  0  /etc/ssh/sshd_config
+-'  1  0  /etc/ssh/sshd_config
+-'  1  0  /etc/ssh/sshd_config
+-'  1  0  /etc/ssh/sshd_config
+-'  1  0  /etc/ssh/sshd_config
+-'  1  0  /etc/ssh/sshd_config
+-'  1  4  /usr/local/bin/m.w
+-'  1  0  /etc/ssh/sshd_config
+-'  1  0  /etc/ssh/sshd_config
+-'  1  0  /etc/ssh/sshd_config
+-'  1  0  /etc/ssh/sshd_config
+-'  1  0  /etc/ssh/sshd_config
+-'  1  0  /etc/ssh/sshd_config
+-'  1  0  /etc/ssh/sshd_config
+-'  1  0  /etc/ssh/sshd_config
+-'  1  0  ~/application/index.html
+-'  1  4  /usr/local/bin/m.w
+-'  1  0  /etc/ssh/sshd_config
+-'  1  0  /etc/ssh/sshd_config
+-'  1  0  /etc/ssh/sshd_config
+-'  1  0  /etc/ssh/sshd_config
+-'  1  0  /etc/ssh/sshd_config
+-'  1  0  /etc/ssh/sshd_config
+-'  1  0  /etc/ssh/sshd_config
+-'  1  0  /etc/ssh/sshd_config
+-'  1  4  /usr/local/bin/m.w
+-'  1  0  /etc/ssh/sshd_config
+-'  1  0  /etc/ssh/sshd_config
+-'  1  0  /etc/ssh/sshd_config
+-'  1  0  /etc/ssh/sshd_config
+-'  1  0  /etc/ssh/sshd_config
+-'  1  0  /etc/ssh/sshd_config
+-'  1  0  /etc/ssh/sshd_config
+-'  1  0  /etc/ssh/sshd_config
+-'  44  0  ~/application/config/config.php
+-'  1  0  ~/application/config/config.php
+-'  1  0  ~/application/index.html
+-'  1  4  /usr/local/bin/m.w
+-'  1  0  /etc/ssh/sshd_config
+-'  1  0  /etc/ssh/sshd_config
+-'  1  0  /etc/ssh/sshd_config
+-'  1  0  /etc/ssh/sshd_config
+-'  1  0  /etc/ssh/sshd_config
+-'  1  0  /etc/ssh/sshd_config
+-'  1  0  /etc/ssh/sshd_config
+-'  1  0  /etc/ssh/sshd_config
+-'  1  4  /usr/local/bin/m.w
+-'  1  0  /etc/ssh/sshd_config
+-'  1  0  /etc/ssh/sshd_config
+-'  1  0  /etc/ssh/sshd_config
+-'  1  0  /etc/ssh/sshd_config
+-'  1  0  /etc/ssh/sshd_config
+-'  1  0  /etc/ssh/sshd_config
+-'  1  0  /etc/ssh/sshd_config
+-'  1  0  /etc/ssh/sshd_config
+-'  1  0  ~/application/index.html
+-'  1  4  /usr/local/bin/m.w
+-'  1  0  /etc/ssh/sshd_config
+-'  1  0  /etc/ssh/sshd_config
+-'  1  0  /etc/ssh/sshd_config
+-'  1  0  /etc/ssh/sshd_config
+-'  1  0  /etc/ssh/sshd_config
+-'  1  0  /etc/ssh/sshd_config
+-'  1  0  /etc/ssh/sshd_config
+-'  1  0  /etc/ssh/sshd_config
+-'  1  4  /usr/local/bin/m.w
+-'  1  0  /etc/ssh/sshd_config
+-'  1  0  /etc/ssh/sshd_config
+-'  1  0  /etc/ssh/sshd_config
+-'  1  0  /etc/ssh/sshd_config
+-'  1  0  /etc/ssh/sshd_config
+-'  1  0  /etc/ssh/sshd_config
+-'  1  0  /etc/ssh/sshd_config
+-'  1  0  /etc/ssh/sshd_config
+
+# 파일내의 마크 히스토리 (새것부터 오래된 순):
+
+> ~/application/config/routes.php
+	"	52	36
+	^	52	37
+	.	52	36
+	+	52	36
+
+> ~/application/config/config.php
+	"	44	0
+
+> ~/application/index.html
+	"	1	0
+
+> /usr/local/bin/m.w
+	"	1	4
+	^	1	5
+	.	1	4
+	+	1	4
