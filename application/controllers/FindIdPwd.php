@@ -23,6 +23,7 @@ class FindIdPwd extends CI_Controller {
 
     }
 
+    // ID 찾기
     public function findId()
     {
         if ($_POST) {
